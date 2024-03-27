@@ -165,7 +165,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![Screenshot 2024-03-27 172051](https://github.com/Nithish23013509/NearMe/assets/149038138/e8f474d8-6144-4ef2-898e-20f8d0f9c4ab)
+
+![Screenshot (16)](https://github.com/Nithish23013509/NearMe/assets/149038138/69231d23-6b12-4a9e-b7e6-92af95f98360)
 
 ![Sankar Cafe-1](https://github.com/Nithish23013509/NearMe/assets/149038138/31c15237-d384-4bbe-b8b4-44838328b794)
 
