@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 25.03.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -165,6 +165,7 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
+![Screenshot 2024-03-27 172051](https://github.com/Nithish23013509/NearMe/assets/149038138/e8f474d8-6144-4ef2-898e-20f8d0f9c4ab)
 
 ![Sankar Cafe-1](https://github.com/Nithish23013509/NearMe/assets/149038138/31c15237-d384-4bbe-b8b4-44838328b794)
 
